@@ -1,0 +1,2 @@
+# § 45b Urlaub für die Betreuung von Angehörigen
+1 Die Arbeitnehmerin oder der Arbeitnehmer hat, gegen Vorlage eines Arztzeugnisses, nach der Bestimmung von Art. 329h des Obligationenrechts (OR), Anspruch auf bezahlten Urlaub für die Zeit, die zur Betreuung eines Familienmitglieds, der Lebenspartnerin oder des Lebenspartners mit gesundheitlichen Beeinträchtigungen notwendig ist; der Urlaub beträgt jedoch höchstens drei Tage pro Ereignis und höchstens zehn Tage pro Jahr.
