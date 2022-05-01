@@ -1,0 +1,7 @@
+# Art. 21b Standorte, Betriebszeiten und -anforderungen
+1 Der Plan im Anhang 5 zu diesem Reglement zeigt bewilligungsfähige Standorte für die mobile und saisonale Gastronomie. Die Zahl der Standplätze ist limitiert.
+2 Bewilligungen werden jeweils längstens für die Dauer eines Jahres an natürliche oder juristische Personen erteilt. Filialen von Gastronomieketten sind nicht zugelassen. Sofern für einen Standort mehrere Bewilligungen ersucht werden, kann die Zuteilung ausgelobt werden. Im Betreibendenauswahlverfahren werden namentlich auch das gastronomische und gestalterische Konzept beurteilt.
+3 Einrichtungen wie Stände oder Fahrzeuge der mobilen und saisonalen Gastronomie müssen jeden Tag aufgebaut bzw. hingefahren und am Abend wieder abgebaut bzw. weggefahren werden. Eine Lagerung von Infrastruktur und Produkten im öffentlichen Raum ist nicht gestattet.
+4 Der Betrieb einschliesslich Auf- und Rückbau ist höchstens zwischen 07:00 Uhr und 22:00 Uhr bewilligungsfähig.
+5 Einrichtungen wie Stände oder Fahrzeuge der mobilen und saisonalen Gastronomie müssen grundsätzlich autark betrieben werden, d. h.ohne weitere öffentliche Infrastrukturen (Wasser, Abwasser). Elektrizität wird an ausgewählten Standorten gegen Verrechnung angeboten. Der Betrieb von Motoren oder Generatoren zur Stromerzeugung ist nicht gestattet.
+6 Die Betreibenden der mobilen und saisonalen Gastronomie tragen die Verantwortung für einen geordneten, den Gesetzen entsprechenden Betrieb bzw. Betriebsablauf, eingeschlossen die Sauberkeit am Standort und im unmittelbaren Umfeld.
