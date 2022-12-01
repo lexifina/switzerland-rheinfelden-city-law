@@ -1,5 +1,5 @@
 ## 1 Anstellungsbedingungen für Personal im obligationenrechtlichen Verhältnis
-## 2 Sitzungsgelder und Entschädigungen an Mitglieder von Kommissionen und Behörden sowie an Funktionäre der Gemeinde
+## 2 Sitzungsgelder und Entschädigungen an Mitglieder von Kommissionen und Behörden sowie an Funktionärinnen und Funktionäre der Gemeinde
 ## 3 Entschädigungen Bevölkerungsschutz
 ### 3.1 Feuerwehr
 ### 3.2 Regionales Führungsorgan (RFO)
@@ -7,7 +7,7 @@
 #### 3.3.1 Park- und Verkehrsdienstgruppe
 ## 4 Entschädigung der Nebenämter an Primarschulen und Kindergärten
 ## 5 Ortsbürgergemeinde
-## 6 Lehrlinge und Praktikanten
+## 6 Lehrlinge sowie Praktikantinnen und Praktikanten
 ### 6.1 Besoldung
 ### 6.2 Spesen und übrige Kosten Auszubildende Verwaltung
 ## 7 Pikettentschädigungen, Zulagen und übrige Leistungen
