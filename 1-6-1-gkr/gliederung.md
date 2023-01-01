@@ -10,3 +10,4 @@
 ## A5 Anhang 5: Kompetenzmatrix Soziales
 ## A6 Anhang 6: Kompetenzmatrix Schule
 ## A7 Anhang 7: Kompetenzmatrix Ortsbürgergemeinde
+## A8 Anhang 8: Kompetenzmatrix Kultur
