@@ -16,3 +16,4 @@
 ### A3.5 Gemeinde Olsberg
 ### A3.6 Gemeinde Hellikon
 ### A3.7 Gemeinde Schupfart
+## A3.8 Gemeinde Stein
