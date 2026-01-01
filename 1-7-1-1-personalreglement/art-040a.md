@@ -1,4 +1,4 @@
-# § 40a Vaterschaftsurlaub und ‑entschädigung
-1 Der Arbeitnehmer, der im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater ist oder dies innerhalb der folgenden sechs Monate wird, hat Anspruch auf einen bezahlten Vaterschaftsurlaub von zwei Wochen.
-2 Der Vaterschaftsurlaub muss innert sechs Monaten nach der Geburt des Kindes bezogen werden. Er kann wochen- oder tageweise bezogen werden.
-3 Die Voraussetzungen und der Anspruch der Vaterschaftsentschädigung richten sich nach dem Erwerbsersatzgesetz (EOG), wobei die Stadt den vollen Lohn ausrichtet.
+# § 40a Bezahlter Urlaub des anderen Elternteils und Adoption
+1 Väter sowie die Ehefrau der Mutter, die im Sinne von Art. 255a Abs. 1 ZGB als anderer Elternteil gilt, haben bei der Geburt ihres Kindes Anspruch auf einen bezahlten Vaterschaftsurlaub von drei Wochen. Voraussetzungen und Bezug richten sich nach der Regelung im Bundesgesetz über den Erwerbsersatz; die Entschädigung entspricht dem vereinbarten Lohn. Der Urlaub kann auch tageweise innerhalb von sechs Monaten seit Geburt des Kindes bezogen werden; danach verfällt er entschädigungslos.
+2 Bei Adoption eines Kindes von unter 4 Jahren haben Mitarbeitende Anspruch auf einen bezahlten Urlaub von drei Wochen. Voraussetzungen und Bezug richten sich nach der Regelung im Bundesgesetz über den Erwerbsersatz, wobei die Entschädigung dem vereinbarten Lohn entspricht.
+3 Erwerbsausfallentschädigungen der Ausgleichskasse fallen an die Gemeinde.
