@@ -1,0 +1,11 @@
+{
+  "path": "ch-ag-rheinfelden",
+  "code": "CH-AG-RHEINFELDEN",
+  "name": "Rheinfelden (city)",
+  "level": "municipality",
+  "parent": "ch-ag",
+  "repo": "https://github.com/lexifina/switzerland-rheinfelden-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (1 acts, 1 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

@@ -1,0 +1,19 @@
+{
+ "country": "CH-AG-RHEINFELDEN",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 14,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "9e51ed630f415aa121dff7684e4709056be398d36d6f4ca853bb2591d565d886"
+    }
+   ]
+  }
+ ]
+}

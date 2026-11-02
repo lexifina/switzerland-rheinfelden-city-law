@@ -1,0 +1,19 @@
+The law texts in this repository are official texts of the city of Rheinfelden (Stadt Rheinfelden), taken from its
+systematic collection (SRS, https://rheinfelden.tlex.ch/).
+
+Swiss law does not protect them by copyright. Federal Act on Copyright and Related Rights (URG, SR 231.1),
+Art. 5 ("Nicht geschützte Werke"), as Fedlex publishes it (https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de,
+version in force from 1 July 2025, read 2026-11-02): "1 Durch das Urheberrecht nicht geschützt sind: a. Gesetze,
+Verordnungen, völkerrechtliche Verträge und andere amtliche Erlasse; [...]" (Not protected by copyright: a. acts,
+ordinances, international treaties and other official enactments.)
+
+The city's own legal notice (https://www.rheinfelden.ch/de/datenschutz/nutzungsbedingungen.php, read 2026-11-01) restricts the reuse of the content of its website:
+
+"Sämtliche Inhalte dieser Internetpräsenz (u.a. Texte, Grafiken und herunterladbare Dateien) sind urheberrechtlich geschützt. Generell dürfen Fotografien, Illustrationen, Texte usw. nur nach schriftlicher Genehmigung durch den Betreiber oder den Rechteinhaber bearbeitet, heruntergeladen, vervielfältigt, kopiert, geändert, veröffentlicht, versendet, übertragen oder in sonstiger Form genutzt werden."
+
+The texts are official acts excluded from copyright by the URG, Art. 5 para. 1 let. a; this record relies on that exemption.
+
+This repository is not an official publication; the binding text is the one the city publishes as binding.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
