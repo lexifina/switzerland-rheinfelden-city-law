@@ -8,7 +8,7 @@ The text is in German, exactly as the city publishes it.
 
 ## What this repository holds
 
-15 acts with 48 versions so far: the Gemeindeordnung (the city's charter) first, then the city's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+32 acts with 73 versions so far: the Gemeindeordnung (the city's charter) first, then the city's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -27,6 +27,23 @@ The text is in German, exactly as the city publishes it.
 | `6-6-1-raumreglement/` | Reglement über die temporäre Benutzung von Räumlichkeiten der Einwohner- und Ortsbürgergemeinde Rheinfelden (SRS 6.6-1) | 2 | oldest version available, then each consolidated version: 15 November 2021 to 11 December 2023 |
 | `7-1-2/` | Spezialbauvorschriften Altstadt Rheinfelden (SRS 7.1-2) | 1 | as enacted, 7 December 1993 |
 | `7-1-2-1/` | Gestaltungsrichtlinien Altstadt Rheinfelden (SRS 7.1-2.1) | 1 | as enacted, 1 January 2019 |
+| `7-1-3/` | Richtlinien Sanierungsbeiträge (SRS 7.1-3) | 1 | as enacted, 23 August 2004 |
+| `7-1-4/` | Reglement zur Finanzierung von Erschliessungsanlagen (SRS 7.1-4) | 1 | as enacted, 1 October 2024 |
+| `7-4-1-1/` | Reglement über das Multimedianetz (SRS 7.4.1-1) | 1 | as enacted, 1 January 2024 |
+| `7-4-2-2/` | Reglement über Entschädigungen aufgrund der Einstellung der Gasversorgung (SRS 7.4.2-2) | 1 | as enacted, 1 August 2025 |
+| `7-4-3-1/` | Wasserreglement (SRS 7.4.3-1) | 1 | as enacted, 1 October 2024 |
+| `7-4-4-1/` | Reglement über die Abfallbewirtschaftung (SRS 7.4.4-1) | 1 | as enacted, 12 December 2001 |
+| `7-4-5-1/` | Abwasserreglement (SRS 7.4.5-1) | 1 | as enacted, 1 October 2024 |
+| `7-7-1-1/` | Reglement über die Nutzung des öffentlichen Grundes (SRS 7.7.1-1) | 4 | oldest version available, then each consolidated version: 15 March 2021 to 1 January 2026 |
+| `7-7-1-2/` | Reglement über die Nutzung der Schiffsanlegestelle «Schifflände» der Stadt Rheinfelden (SRS 7.7.1-2) | 1 | as enacted, 1 October 2026 |
+| `7-7-5-1-parkierungsreglement/` | Reglement über das Parkieren von Motorfahrzeugen auf öffentlichem Grund, die Erhebung von Gebühren und die Parkplatzersatzabgabepflicht (SRS 7.7.5-1) | 1 | one version (the oldest available), 1 January 2022 |
+| `7-7-5-1-1/` | Vollziehungsverordnung zum Parkierungsreglement (SRS 7.7.5-1.1) | 4 | oldest version available, then each consolidated version: 1 January 2022 to 1 February 2025 |
+| `8-2-1/` | Friedhof- und Bestattungsreglement (SRS 8.2-1) | 1 | as enacted, 14 January 2019 |
+| `8-2-1-1/` | Verordnung zum Friedhof- und Bestattungsreglement (SRS 8.2-1.1) | 2 | as enacted, then each consolidated version: 1 January 2019 to 1 January 2026 |
+| `8-6-1-kinderbetreuungs-beitragsreglement-kibe-ber/` | Reglement über kommunale Beiträge an die familienergänzende Kinderbetreuung (SRS 8.6-1) | 2 | as enacted, then each consolidated version: 1 January 2017 to 1 August 2018 |
+| `8-6-1-1-kinderbetreuungs-beitragsverordnung-kibe-bev/` | Verordnung über kommunale Beiträge an die familienergänzende Kinderbetreuung (SRS 8.6-1.1) | 1 | as enacted, 1 August 2018 |
+| `8-7-1/` | Richtlinien für den Fonds für Unterstützungsbedürftige (SRS 8.7-1) | 1 | one version (the oldest available), 6 April 2020 |
+| `9-4-1-kurtaxenreglement/` | Reglement über die Kurtaxen (SRS 9.4-1) | 1 | one version (the oldest available), 1 January 2020 |
 
 ## Source
 

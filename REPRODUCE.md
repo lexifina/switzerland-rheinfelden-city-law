@@ -29,20 +29,37 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `6-6-1-raumreglement` | Reglement über die temporäre Benutzung von Räumlichkeiten der Einwohner- und Ortsbürgergemeinde Rheinfelden | 2 | 2021-11-15 to 2023-12-11 |
 | `7-1-2` | Spezialbauvorschriften Altstadt Rheinfelden | 1 | 1993-12-07 to 1993-12-07 |
 | `7-1-2-1` | Gestaltungsrichtlinien Altstadt Rheinfelden | 1 | 2019-01-01 to 2019-01-01 |
+| `7-1-3` | Richtlinien Sanierungsbeiträge | 1 | 2004-08-23 to 2004-08-23 |
+| `7-1-4` | Reglement zur Finanzierung von Erschliessungsanlagen | 1 | 2024-10-01 to 2024-10-01 |
+| `7-4-1-1` | Reglement über das Multimedianetz | 1 | 2024-01-01 to 2024-01-01 |
+| `7-4-2-2` | Reglement über Entschädigungen aufgrund der Einstellung der Gasversorgung | 1 | 2025-08-01 to 2025-08-01 |
+| `7-4-3-1` | Wasserreglement | 1 | 2024-10-01 to 2024-10-01 |
+| `7-4-4-1` | Reglement über die Abfallbewirtschaftung | 1 | 2001-12-12 to 2001-12-12 |
+| `7-4-5-1` | Abwasserreglement | 1 | 2024-10-01 to 2024-10-01 |
+| `7-7-1-1` | Reglement über die Nutzung des öffentlichen Grundes | 4 | 2021-03-15 to 2026-01-01 |
+| `7-7-1-2` | Reglement über die Nutzung der Schiffsanlegestelle «Schifflände» der Stadt Rheinfelden | 1 | 2026-10-01 to 2026-10-01 |
+| `7-7-5-1-parkierungsreglement` | Reglement über das Parkieren von Motorfahrzeugen auf öffentlichem Grund, die Erhebung von Gebühren und die Parkplatzersatzabgabepflicht | 1 | 2022-01-01 to 2022-01-01 |
+| `7-7-5-1-1` | Vollziehungsverordnung zum Parkierungsreglement | 4 | 2022-01-01 to 2025-02-01 |
+| `8-2-1` | Friedhof- und Bestattungsreglement | 1 | 2019-01-14 to 2019-01-14 |
+| `8-2-1-1` | Verordnung zum Friedhof- und Bestattungsreglement | 2 | 2019-01-01 to 2026-01-01 |
+| `8-6-1-kinderbetreuungs-beitragsreglement-kibe-ber` | Reglement über kommunale Beiträge an die familienergänzende Kinderbetreuung | 2 | 2017-01-01 to 2018-08-01 |
+| `8-6-1-1-kinderbetreuungs-beitragsverordnung-kibe-bev` | Verordnung über kommunale Beiträge an die familienergänzende Kinderbetreuung | 1 | 2018-08-01 to 2018-08-01 |
+| `8-7-1` | Richtlinien für den Fonds für Unterstützungsbedürftige | 1 | 2020-04-06 to 2020-04-06 |
+| `9-4-1-kurtaxenreglement` | Reglement über die Kurtaxen | 1 | 2020-01-01 to 2020-01-01 |
 
-The build made 52 commits:
+The build made 77 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 15 | first version of an act |
-| 37 | one law on its in-force day |
+| 32 | first version of an act |
+| 45 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 105 laws in the record.
-- 89 tags.
+- 135 laws in the record.
+- 128 tags.
 
 ## Dates
 
@@ -54,13 +71,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2a3f4a1054e99ea15f9ef45a89d746ad219d06ab04636558aa48bbd50fb537a3` (595817 bytes).
+- Corpus: sha256 `32406a3bf6030f982a0432ab4e304ee9b99f5b0c9a664fd5d4936c009a785065` (951963 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-48 versions of 15 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+73 versions of 32 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 

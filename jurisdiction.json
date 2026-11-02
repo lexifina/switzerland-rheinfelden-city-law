@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ch-ag",
   "repo": "https://github.com/lexifina/switzerland-rheinfelden-city-law",
-  "build": "built: Gemeindeordnung and municipal enactments (15 acts, 48 versions) from the SRS",
+  "build": "built: Gemeindeordnung and municipal enactments (32 acts, 73 versions) from the SRS",
   "language": "de",
   "sources": 1
 }
