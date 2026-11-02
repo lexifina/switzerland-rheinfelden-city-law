@@ -14,6 +14,400 @@
      "sha256": "9e51ed630f415aa121dff7684e4709056be398d36d6f4ca853bb2591d565d886"
     }
    ]
+  },
+  {
+   "slug": "1-2-1-videouberwachungsreglement",
+   "short": "Videoüberwachungsreglement",
+   "title": "Reglement über die Videoüberwachung öffentlicher Gebäude und Anlagen von Rheinfelden",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 14,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.2-1/versions/244",
+     "sha256": "35ce7026ecd4137f28e8d6d3f67c0f39998b8fa65df9a28abe598fc548797b80"
+    },
+    {
+     "from": "2023-03-20",
+     "units": 14,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.2-1/versions/260",
+     "sha256": "b802fa1017bf4ede08e8c5d6f586c30f675255362dbe732862f46c4ad5063404"
+    },
+    {
+     "from": "2024-05-06",
+     "units": 14,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.2-1/versions/319",
+     "sha256": "4fcf9ee04bd59b1dd7dafd7015cd454dc2652a6c8d42ab79e8195a0605258312"
+    },
+    {
+     "from": "2026-06-22",
+     "units": 13,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "6acf12d27215bc8b73a576176ad2a9b910481ecb6238adc40df2134a9f99e039"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-2",
+   "short": "SRS 1.2-2",
+   "title": "Videoüberwachungsreglement für die Regionalpolizei unteres Fricktal",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/1.2-2",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 10,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.2-2",
+     "sha256": "1cd1425d324c8691d9b1e6d75802b5d62b35c9fcd98d2328efaf814126a7954a"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-gkr",
+   "short": "GKR",
+   "title": "Geschäfts- und Kompetenzreglement",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 61,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/277",
+     "sha256": "05afa520392d9a5cfde8f094cfffc38b98dc1d581df41739e755100c4694cb15"
+    },
+    {
+     "from": "2022-05-02",
+     "units": 61,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/278",
+     "sha256": "30e442b6c33c9497d928e1f7bb12534f4bcb4ed90f4402bea5d4e1edccd16be9"
+    },
+    {
+     "from": "2022-11-21",
+     "units": 61,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/279",
+     "sha256": "037ee6c876bcb254aa6d5469f610dc3946f4a576edf2d3ff709041d8a39a705a"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 62,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/280",
+     "sha256": "7bed5b795f2a12410cb244654ce1992013c5c4ef69f069663cca597934a117e7"
+    },
+    {
+     "from": "2023-01-09",
+     "units": 62,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/281",
+     "sha256": "250f856cd2f91330208809778fe9a140378eb871e04305dab8e4731d3b8b2f7f"
+    },
+    {
+     "from": "2023-05-08",
+     "units": 62,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/282",
+     "sha256": "309075b4fb65f2a4243f8fee0384b557ffda14face5afff70847015659c81263"
+    },
+    {
+     "from": "2023-12-04",
+     "units": 62,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/296",
+     "sha256": "aa6c02d2e47984b56195d446c086e8515923d4697bfb66a2f370cb9d17e54cf0"
+    },
+    {
+     "from": "2024-04-22",
+     "units": 62,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/297",
+     "sha256": "449a2d500703abc78861f5e2cb7c4a8e776182286d07e31ebd860ccc7ac58e2c"
+    },
+    {
+     "from": "2024-05-06",
+     "units": 62,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/298",
+     "sha256": "ed75087fdafcc85759916600e356be784a047f802f51192ba7a7ec021ce95eb3"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 62,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/347",
+     "sha256": "439e921d8ce45eacf68497fe61364b4ddf15997a84130169ce816e75ace588ef"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 62,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/364",
+     "sha256": "9e940d37fd1d68964099ce2a38a87efef42ec2653ea69f32d22236fa1a7adf55"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 61,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1/versions/375",
+     "sha256": "3abdfd8e96d793a92c7a138b28b3ba58fa1c1b20bb6707323ee9382bd56b1a3e"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 61,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "c7bd9d736b9cbf5f95bd950b353278d1055775fe8b498d9bd98d8bd3c824513a"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2-entschadigungsreglement-gemeinderat",
+   "short": "Entschädigungsreglement Gemeinderat",
+   "title": "Reglement über die Entschädigung der Mitglieder des Gemeinderates",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 11,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "bc3ad97acec47aa985e2b8d33c7f43d5c3289b2591902560874c42781f60b55b"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1-personalreglement",
+   "short": "Personalreglement",
+   "title": "Reglement für das Personal der Einwohner- und Ortsbürgergemeinde",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/1.7.1-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 57,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1/versions/210",
+     "sha256": "3fcc821ec87e29443854de62d4e2cf092ffca7fdc1a41943eca17aaef51d6dbb"
+    },
+    {
+     "from": "2023-01-09",
+     "units": 57,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1/versions/256",
+     "sha256": "dec542b5ab13470bb97dbe803678b53fba80fc402e55f2ab66f341b8482a56f2"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 57,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1/versions/290",
+     "sha256": "0195f4572943433310372ecfb439af0011a5dd2ba5677dff8bfb8ee971d1ecac"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 57,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1",
+     "sha256": "2786b10f1e101d85eaa4ecb18aa970f9d1ec678448f2952724ddd27d28c058da"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1-1-verordnung-zum-personalreglement",
+   "short": "Verordnung zum Personalreglement",
+   "title": "Verordnung zum Reglement für das Personal der Einwohner- und Ortsbürgergemeinde Rheinfelden",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/1.7.1-1.1",
+   "versions": [
+    {
+     "from": "2021-05-06",
+     "units": 98,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1.1/versions/221",
+     "sha256": "d3bf37559e992b8e892c8b23d2f6101df2a45e3aad0ac18d22bd8aa8a73a884a"
+    },
+    {
+     "from": "2022-08-08",
+     "units": 98,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1.1/versions/248",
+     "sha256": "01a481e1992e74e4cc1ae3a53c17ede1d1d119f068a85b5a782558b910aa5790"
+    },
+    {
+     "from": "2022-12-01",
+     "units": 100,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1.1/versions/253",
+     "sha256": "ac5ed031808a5830f7d710283bcc668f0ebc2d52a4435fa06e5cbe551016478e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 100,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1.1/versions/254",
+     "sha256": "06ffe52f753f1d3bc87acd6c6bce8ca865c2838c7adec4ff5b4b6efee84eb024"
+    },
+    {
+     "from": "2023-04-17",
+     "units": 100,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1.1/versions/261",
+     "sha256": "51431ef37764f14b573db61e7e758395cd6d2885bf07863d4b57bc5f11b1c325"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 100,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1.1/versions/305",
+     "sha256": "926fb8aecec4d77f6c1a1c078f5b2705dc561544c2e26a0c5462e6da5e6b131f"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 100,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1.1/versions/333",
+     "sha256": "64268adca24960bc2bf95025d5263f6b1c5feb120f5f6eec24f8a5a229af33f6"
+    },
+    {
+     "from": "2025-06-18",
+     "units": 99,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1.1/versions/385",
+     "sha256": "7bfb6b2d0694ce3cb63f0c15a9c36ba16e07a861f32568acdc4618c9a9dbbfa2"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 99,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1.1",
+     "sha256": "8e16c0ffb081930ce75001b97288e2c7bc379f6d79989d44212a1dcfd449e2a2"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1-2-richtlinie-personalvertretung",
+   "short": "Richtlinie Personalvertretung",
+   "title": "Richtlinie über die Organisation und Aufgaben der Personalvertretung der Einwohner- und Ortsbürgergemeinde",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/1.7.1-1.2",
+   "versions": [
+    {
+     "from": "2012-02-01",
+     "units": 12,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1.2/versions/219",
+     "sha256": "d0453ca8ad9f29a42dcc7afb95af5a39f52ef5788c65869b5c4865a996d09f24"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 12,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-1.2",
+     "sha256": "04f4fde2b76409105f380aa82ac2d93c4eeb741dd405ccd852e05edc19c86add"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-2-informatikreglement",
+   "short": "Informatikreglement",
+   "title": "Reglement des Gemeinderates zur Benutzung von Informatikmitteln und zur Überwachung des Vollzugs",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/1.7.1-2",
+   "versions": [
+    {
+     "from": "2013-10-21",
+     "units": 11,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-2/versions/308",
+     "sha256": "c56df35ec68d3b783e23c51a2b1900b0df3543513e9b67bc4824d5d7e843de24"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 11,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-2",
+     "sha256": "856402c8b9f3968081d5d23bc20b0cf329189a9d29521778a97bb0e6d220247f"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-3",
+   "short": "SRS 1.7.1-3",
+   "title": "Reglement über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/1.7.1-3",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 30,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/1.7.1-3",
+     "sha256": "a6acdba92c6d6823c73ab8c285ae64835a035e6c174e690dc5f29e21bdefeb35"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1",
+   "short": "SRS 5.1-1",
+   "title": "Polizeireglement der Gemeinden im Einzugsgebiet der Regionalpolizei Unteres Fricktal",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "2020-05-31",
+     "units": 41,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/5.1-1/versions/214",
+     "sha256": "3afaeb18ee4ef9789d114b198c046e84d0703ff20efed1a7616ec1d0cf97d6ff"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 42,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/5.1-1/versions/306",
+     "sha256": "ddc46c1f83f09849419e53a3dd5c33748a151d475d7ca7a3df31d4b3c87a06c9"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 43,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/5.1-1/versions/324",
+     "sha256": "13754550355f23e35e6a4cff7a62bba38911f05694c9b0feedb914de40dc538b"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 43,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/5.1-1/versions/378",
+     "sha256": "f5f8176fd7865e5522b7c7411b40562023de25e7c74781f21f47cc1c9539fcf0"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 43,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "62f30d1bedcd5ff51a3391e4f9deac03826abc73ecbcf317e5f5c9f4b9276124"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-2",
+   "short": "SRS 5.1-2",
+   "title": "Vertrag Regionalpolizei Unteres Fricktal",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/5.1-2",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 14,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/5.1-2",
+     "sha256": "a686f0ee882f3f3ea63b510b38cc57876d59449416112acb922eeebb29671f35"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1-raumreglement",
+   "short": "Raumreglement",
+   "title": "Reglement über die temporäre Benutzung von Räumlichkeiten der Einwohner- und Ortsbürgergemeinde Rheinfelden",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 64,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/6.6-1/versions/344",
+     "sha256": "073b4a2630114fa16930b74cf52339e21e6bad4804b7b9cc154e473a27cde058"
+    },
+    {
+     "from": "2023-12-11",
+     "units": 64,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "ad3333bc2692be018738461b6b64eecd0d55c2b2cacb7063da56133956eea130"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Spezialbauvorschriften Altstadt Rheinfelden",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "1993-12-07",
+     "units": 23,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "e3e4750b1d4a6c97ba9a9bed4da1baea9cf1c1fd6a96fe093fa865286042ad31"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2-1",
+   "short": "SRS 7.1-2.1",
+   "title": "Gestaltungsrichtlinien Altstadt Rheinfelden",
+   "url": "https://rheinfelden.tlex.ch/app/de/texts_of_law/7.1-2.1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 51,
+     "source_url": "https://rheinfelden.tlex.ch/api/de/texts_of_law/7.1-2.1",
+     "sha256": "8240f31b7eb56c5f142efbba030472c92e69f6b9cb49ae5772f3d920f2c0970f"
+    }
+   ]
   }
  ]
 }

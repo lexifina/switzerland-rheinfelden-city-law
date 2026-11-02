@@ -8,11 +8,25 @@ The text is in German, exactly as the city publishes it.
 
 ## What this repository holds
 
-1 act with 1 versions so far: the Gemeindeordnung (the city's charter) first, then the city's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+15 acts with 48 versions so far: the Gemeindeordnung (the city's charter) first, then the city's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `1-1-1/` | Gemeindeordnung (SRS 1.1-1) | 1 | one version (the oldest available), 1 January 2022 |
+| `1-2-1-videouberwachungsreglement/` | Reglement über die Videoüberwachung öffentlicher Gebäude und Anlagen von Rheinfelden (SRS 1.2-1) | 4 | as enacted, then each consolidated version: 1 January 2021 to 22 June 2026 |
+| `1-2-2/` | Videoüberwachungsreglement für die Regionalpolizei unteres Fricktal (SRS 1.2-2) | 1 | as enacted, 1 July 2014 |
+| `1-6-1-gkr/` | Geschäfts- und Kompetenzreglement (SRS 1.6-1) | 13 | oldest version available, then each consolidated version: 6 December 2021 to 1 October 2026 |
+| `1-6-2-entschadigungsreglement-gemeinderat/` | Reglement über die Entschädigung der Mitglieder des Gemeinderates (SRS 1.6-2) | 1 | as enacted, 1 January 2010 |
+| `1-7-1-1-personalreglement/` | Reglement für das Personal der Einwohner- und Ortsbürgergemeinde (SRS 1.7.1-1) | 4 | oldest version available, then each consolidated version: 1 January 2021 to 1 January 2026 |
+| `1-7-1-1-1-verordnung-zum-personalreglement/` | Verordnung zum Reglement für das Personal der Einwohner- und Ortsbürgergemeinde Rheinfelden (SRS 1.7.1-1.1) | 9 | oldest version available, then each consolidated version: 6 May 2021 to 1 January 2026 |
+| `1-7-1-1-2-richtlinie-personalvertretung/` | Richtlinie über die Organisation und Aufgaben der Personalvertretung der Einwohner- und Ortsbürgergemeinde (SRS 1.7.1-1.2) | 2 | as enacted, then each consolidated version: 1 February 2012 to 1 August 2021 |
+| `1-7-1-2-informatikreglement/` | Reglement des Gemeinderates zur Benutzung von Informatikmitteln und zur Überwachung des Vollzugs (SRS 1.7.1-2) | 2 | oldest version available, then each consolidated version: 21 October 2013 to 1 July 2024 |
+| `1-7-1-3/` | Reglement über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (SRS 1.7.1-3) | 1 | as enacted, 1 July 2024 |
+| `5-1-1/` | Polizeireglement der Gemeinden im Einzugsgebiet der Regionalpolizei Unteres Fricktal (SRS 5.1-1) | 5 | oldest version available, then each consolidated version: 31 May 2020 to 1 September 2026 |
+| `5-1-2/` | Vertrag Regionalpolizei Unteres Fricktal (SRS 5.1-2) | 1 | as enacted, 1 January 2007 |
+| `6-6-1-raumreglement/` | Reglement über die temporäre Benutzung von Räumlichkeiten der Einwohner- und Ortsbürgergemeinde Rheinfelden (SRS 6.6-1) | 2 | oldest version available, then each consolidated version: 15 November 2021 to 11 December 2023 |
+| `7-1-2/` | Spezialbauvorschriften Altstadt Rheinfelden (SRS 7.1-2) | 1 | as enacted, 7 December 1993 |
+| `7-1-2-1/` | Gestaltungsrichtlinien Altstadt Rheinfelden (SRS 7.1-2.1) | 1 | as enacted, 1 January 2019 |
 
 ## Source
 
