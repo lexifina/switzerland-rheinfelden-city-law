@@ -1,0 +1,57 @@
+{
+ "parts": {
+  "10-verfassung.json": {
+   "acts": [
+    "1-1-1"
+   ],
+   "sha256": "8a8bae813596e709cb9e531d795b83799fd2cdd6b9c0bb8d96ffd52834ec10a0"
+  },
+  "40-verordnungen-1.json": {
+   "acts": [
+    "1-2-1-videouberwachungsreglement",
+    "1-2-2",
+    "1-6-1-gkr",
+    "1-6-2-entschadigungsreglement-gemeinderat",
+    "1-7-1-1-1-verordnung-zum-personalreglement",
+    "1-7-1-1-2-richtlinie-personalvertretung",
+    "1-7-1-1-personalreglement",
+    "1-7-1-2-informatikreglement",
+    "1-7-1-3",
+    "5-1-1",
+    "5-1-2",
+    "6-6-1-raumreglement",
+    "7-1-2",
+    "7-1-2-1"
+   ],
+   "sha256": "c9e0acff2a9b45bb3c8acb788e648a69879989ed084a88cce03791b155c22257"
+  },
+  "41-verordnungen-2.json": {
+   "acts": [
+    "7-1-3",
+    "7-1-4",
+    "7-4-1-1",
+    "7-4-2-2",
+    "7-4-3-1"
+   ],
+   "sha256": "375fab17d64ab73bfd95c3f459944433e684a448ef0bc51981559c8617d1ab99"
+  },
+  "42-verordnungen-3.json": {
+   "acts": [
+    "7-4-4-1",
+    "7-4-5-1",
+    "7-7-1-1",
+    "7-7-1-2",
+    "7-7-5-1-1",
+    "7-7-5-1-parkierungsreglement",
+    "8-2-1",
+    "8-2-1-1",
+    "8-6-1-1-kinderbetreuungs-beitragsverordnung-kibe-bev",
+    "8-6-1-kinderbetreuungs-beitragsreglement-kibe-ber",
+    "8-7-1",
+    "9-4-1-kurtaxenreglement"
+   ],
+   "sha256": "7bd5dd52495e76d7d5e9a32d8acb566a21f233dc198f305495f91c7939e551a9"
+  }
+ },
+ "schema": 1
+}
