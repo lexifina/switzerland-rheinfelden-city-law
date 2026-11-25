@@ -21,6 +21,7 @@
     "switzerland/aargau/rheinfelden/acts"
    ],
    "interval": 1.0,
+   "group": "lexwork",
    "repo": "switzerland-rheinfelden-city-law"
   }
  ]
