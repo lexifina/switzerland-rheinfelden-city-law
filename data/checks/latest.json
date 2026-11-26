@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:28:28Z",
+ "generated": "2026-11-26T07:19:54Z",
  "latest": {
   "lexwork-rheinfelden-city|switzerland/aargau/rheinfelden/acts": {
    "attempt": 1,
@@ -13,7 +13,7 @@
     "unreadable": 0
    },
    "census": {
-    "checked": 5,
+    "checked": 6,
     "current": 32,
     "gone": 0,
     "held": 32,
@@ -23,26 +23,26 @@
     "repo": 32,
     "source_in_scope": 32
    },
-   "check_id": "ch-lexwork-rheinfelden-city-20261125T054050Z",
+   "check_id": "ch-lexwork-rheinfelden-city-20261126T053732Z",
    "commits": null,
    "corpus": "switzerland/aargau/rheinfelden/acts",
    "error": null,
-   "finished": "2026-11-25T05:41:31Z",
+   "finished": "2026-11-26T05:38:01Z",
    "flags": [
     {
-     "detail": "1 of 18 texts differ from the source",
+     "detail": "1 of 19 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
    "gap": 69,
-   "note": "rheinfelden.tlex.ch: index of 138 acts (138 in force); held 32; 0 in force and in scope not held yet, 37 out of scope (land-use plans, concessions, directives, forms: as the builder), 69 published only as PDF; 5 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "note": "rheinfelden.tlex.ch: index of 138 acts (138 in force); held 32; 0 in force and in scope not held yet, 37 out of scope (land-use plans, concessions, directives, forms: as the builder), 69 published only as PDF; 6 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 37,
+   "requests": 23,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "138 entries, 138 in force (rheinfelden.tlex.ch)",
    "source": "lexwork-rheinfelden-city",
-   "started": "2026-11-25T05:40:50Z",
+   "started": "2026-11-26T05:37:32Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -70,12 +70,12 @@
      "1.7.1-1.1 (1-7-1-1-1-verordnung-zum-personalreglement): 2024-01-01, 2025-01-01, 2025-06-18, 2026-01-01"
     ],
     "held": 32,
-    "method": "each act compared this check (5 of 32: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from rheinfelden.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "method": "each act compared this check (6 of 32: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from rheinfelden.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {},
     "not_compared_why": null,
     "ok": false,
-    "swept": 5,
-    "versions_checked": 18,
+    "swept": 6,
+    "versions_checked": 19,
     "versions_differ": 1
    }
   }
