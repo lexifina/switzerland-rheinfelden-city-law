@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:19:54Z",
+ "generated": "2026-11-27T07:13:48Z",
  "latest": {
   "lexwork-rheinfelden-city|switzerland/aargau/rheinfelden/acts": {
    "attempt": 1,
@@ -23,18 +23,18 @@
     "repo": 32,
     "source_in_scope": 32
    },
-   "check_id": "ch-lexwork-rheinfelden-city-20261126T053732Z",
+   "check_id": "ch-lexwork-rheinfelden-city-20261127T053925Z",
    "commits": null,
    "corpus": "switzerland/aargau/rheinfelden/acts",
    "error": null,
-   "finished": "2026-11-26T05:38:01Z",
+   "finished": "2026-11-27T05:39:49Z",
    "flags": [
     {
-     "detail": "1 of 19 texts differ from the source",
+     "detail": "1 of 14 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
-   "gap": 69,
+   "gap": 70,
    "note": "rheinfelden.tlex.ch: index of 138 acts (138 in force); held 32; 0 in force and in scope not held yet, 37 out of scope (land-use plans, concessions, directives, forms: as the builder), 69 published only as PDF; 6 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
@@ -42,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 23,
+   "requests": 19,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "138 entries, 138 in force (rheinfelden.tlex.ch)",
    "source": "lexwork-rheinfelden-city",
-   "started": "2026-11-26T05:37:32Z",
+   "started": "2026-11-27T05:39:25Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -75,7 +75,7 @@
     "not_compared_why": null,
     "ok": false,
     "swept": 6,
-    "versions_checked": 19,
+    "versions_checked": 14,
     "versions_differ": 1
    }
   }
