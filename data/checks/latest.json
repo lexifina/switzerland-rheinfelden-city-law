@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:13:48Z",
+ "generated": "2026-11-28T08:36:10Z",
  "latest": {
   "lexwork-rheinfelden-city|switzerland/aargau/rheinfelden/acts": {
    "attempt": 1,
@@ -23,14 +23,14 @@
     "repo": 32,
     "source_in_scope": 32
    },
-   "check_id": "ch-lexwork-rheinfelden-city-20261127T053925Z",
+   "check_id": "ch-lexwork-rheinfelden-city-20261128T053819Z",
    "commits": null,
    "corpus": "switzerland/aargau/rheinfelden/acts",
    "error": null,
-   "finished": "2026-11-27T05:39:49Z",
+   "finished": "2026-11-28T05:38:47Z",
    "flags": [
     {
-     "detail": "1 of 14 texts differ from the source",
+     "detail": "1 of 17 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
@@ -42,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 19,
+   "requests": 24,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "138 entries, 138 in force (rheinfelden.tlex.ch)",
    "source": "lexwork-rheinfelden-city",
-   "started": "2026-11-27T05:39:25Z",
+   "started": "2026-11-28T05:38:19Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -75,7 +75,7 @@
     "not_compared_why": null,
     "ok": false,
     "swept": 6,
-    "versions_checked": 14,
+    "versions_checked": 17,
     "versions_differ": 1
    }
   }

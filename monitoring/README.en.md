@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Rheinfelden only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 05:39 UTC, Rheinfelden: systematic collection (rheinfelden.tlex.ch): 19 addresses read; 0 added, 0 changed, 0 removed; no change; 70 not published, 0 of them with no reason. Flags: `verify-differ`.
+**Last check:** 2026-11-28 05:38 UTC, Rheinfelden: systematic collection (rheinfelden.tlex.ch): 24 addresses read; 0 added, 0 changed, 0 removed; no change; 70 not published, 0 of them with no reason. Flags: `verify-differ`.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Rheinfelden: systematic collection (rheinfelden.tlex.ch)](https://rheinfelden.tlex.ch/) | `<act>/` | daily | 2026-11-27 05:39 UTC | no change | watched |
+| [Rheinfelden: systematic collection (rheinfelden.tlex.ch)](https://rheinfelden.tlex.ch/) | `<act>/` | daily | 2026-11-28 05:38 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:38](checks/2026-11.md#ch-lexwork-rheinfelden-city-20261128t053819z) | lexwork-rheinfelden-city | 24 | 0 | 0 | 0 | 70 (0) | no change `verify-differ` | — |
 | [2026-11-27 05:39](checks/2026-11.md#ch-lexwork-rheinfelden-city-20261127t053925z) | lexwork-rheinfelden-city | 19 | 0 | 0 | 0 | 70 (0) | no change `verify-differ` | — |
 | [2026-11-26 05:37](checks/2026-11.md#ch-lexwork-rheinfelden-city-20261126t053732z) | lexwork-rheinfelden-city | 23 | 0 | 0 | 0 | 69 (0) | no change `verify-differ` | — |
 | [2026-11-25 05:40](checks/2026-11.md#ch-lexwork-rheinfelden-city-20261125t054050z) | lexwork-rheinfelden-city | 37 | 0 | 0 | 0 | 69 (0) | no change `verify-differ` | — |
